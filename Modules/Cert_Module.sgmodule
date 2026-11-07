@@ -1,0 +1,13 @@
+#!name=证书模块
+#!desc=HTTPS解密通用证书
+
+[MITM]
+enable = true
+h2 = true
+
+
+# 证书密码
+ca-passphrase=
+
+# 证书内容
+ca-p12=
